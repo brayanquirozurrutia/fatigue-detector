@@ -1,0 +1,18 @@
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.video-feed {
+    width: 100%;
+    max-width: 640px;
+    margin: 20px auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+.alert {
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
