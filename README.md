@@ -62,5 +62,5 @@ Asegúrate de tener instalado lo siguiente:
 - **Tone.js**: Biblioteca para generar sonidos.
 
 ## Autor
-Creado por [Brayan Nicolas Quiroz Urrutia](https://github.com/tu-usuario).
+Creado por [Brayan Nicolas Quiroz Urrutia](https://github.com/brayanquirozurrutia).
 
